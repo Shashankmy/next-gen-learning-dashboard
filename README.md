@@ -1,5 +1,7 @@
 # Next-Gen Learning Dashboard
 
+**Live demo → [next-gen-learning-dashboard-eight-peach.vercel.app](https://next-gen-learning-dashboard-eight-peach.vercel.app/)**
+
 A high-fidelity student dashboard for the Frontend Intern Challenge. It uses the Next.js App Router, Supabase server-side data fetching, Tailwind CSS, Framer Motion, and Lucide React.
 
 ## Stack
